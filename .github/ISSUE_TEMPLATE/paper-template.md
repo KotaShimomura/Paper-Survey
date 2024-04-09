@@ -1,0 +1,30 @@
+---
+name: Paper template
+about: 'Paper review '
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+# 一言で言うと
+
+## 論文リンク
+
+### bibtex
+
+## 著者/所属機関
+
+## 投稿日(yyyy/mm/dd)
+
+# 概要
+
+# 新規性・差分
+
+# 手法
+
+# 結果
+
+# コメント
+
+### 時間
